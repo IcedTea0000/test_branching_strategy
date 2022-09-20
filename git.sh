@@ -17,3 +17,5 @@ git branch -d localBranchName
 # delete branch remotely
 git push origin --delete remoteBranchName
 
+# push the current branch and set the remote as upstream, use
+git push --set-upstream origin feature/feature_a

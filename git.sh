@@ -23,6 +23,8 @@ git push --set-upstream origin feature/feature_a
 
 # pull the latest remote commits
 git fetch
+# pull the latest remote commits
+git fetch origin <branch>
 
 # ensure the branch has the latest updates
 git pull

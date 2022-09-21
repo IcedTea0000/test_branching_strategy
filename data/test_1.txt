@@ -16,3 +16,4 @@ a 11 merge squash
 a 12 merge fast foward
 
 reset count
+a1 merge fast forward

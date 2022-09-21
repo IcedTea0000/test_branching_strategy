@@ -14,3 +14,5 @@ a 10 pull request
 a 11 merge squash
 
 a 12 merge fast foward
+
+reset count

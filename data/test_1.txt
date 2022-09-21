@@ -20,3 +20,4 @@ a1 merge fast forward
 a2 merge to dev 1 commit ahead
 
 a3 commit same file
+b2 commit same file

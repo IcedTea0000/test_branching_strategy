@@ -18,3 +18,5 @@ a 12 merge fast foward
 reset count
 a1 merge fast forward
 a2 merge to dev 1 commit ahead
+
+b2 commit same file

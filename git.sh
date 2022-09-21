@@ -40,3 +40,6 @@ git commit -m "Finish a feature"
 git checkout main
 git merge new-feature
 git branch -d new-feature
+
+# see a graph of when branches were made
+git log --oneline --graph

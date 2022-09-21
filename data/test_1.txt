@@ -2,3 +2,15 @@ a 1 commit
 a 2
 a 3
 a 4 pull request
+a 5 pull request
+a 6 pull request
+
+a 7 pull request
+a 8 pull request
+
+a 9 pull request
+a 10 pull request
+
+a 11 merge squash
+
+a 12 merge fast foward
